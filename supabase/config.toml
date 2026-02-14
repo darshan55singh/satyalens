@@ -1,0 +1,7 @@
+project_id = "bdadaelwqvsmaoirpqhb"
+
+[functions.analyze-image]
+verify_jwt = false
+
+[functions.admin-stats]
+verify_jwt = false
